@@ -1,0 +1,20 @@
+{
+    "name": "tio/halo",
+    "description": "ini library",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Tio\\Belajar\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Tio Haidar",
+            "email": "atiohaidar@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=8.0"
+    }
+
+}
